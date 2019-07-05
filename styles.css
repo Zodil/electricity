@@ -342,3 +342,11 @@ main {
 .typography-1, .typography-2 {
   font-family: SharpSansBold,Arial Narrow,Arial;
   line-height: 1;
+}
+.bodyidcolour {
+  background-color: purple
+}
+
+.bodyidcolour2 {
+  background-color: blue
+}
